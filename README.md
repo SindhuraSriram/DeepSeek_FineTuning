@@ -83,10 +83,3 @@ pip install unsloth datasets transformers peft accelerate bitsandbytes torch trl
 - **Adjust LoRA configurations** to prevent out-of-memory errors.
 - **Use W&B for experiment tracking** and hyperparameter optimization.
 
----
-
-## **Author**  
-📧 **Sindhura Sriram**  
-🔗 **[LinkedIn](https://www.linkedin.com/in/sindhura-sriram/)**  
-📂 **[GitHub](https://github.com/SindhuraSriram)**  
-🌐 **[Portfolio](https://sindhura-sriram.com/)**  
